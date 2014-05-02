@@ -1,7 +1,7 @@
 {
   "name": "extended-querystring",
   "description": "extended querystring module supporting add/remove parameters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["querystring"],
   "main": "index.js",
   "directories": {
@@ -13,6 +13,10 @@
   },
   "scripts": {
     "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatsuyaoiw/extended-querystring.git"
   },
   "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>",
   "license": "MIT"
