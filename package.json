@@ -1,0 +1,19 @@
+{
+  "name": "extended-querystring",
+  "description": "extended querystring module supporting add/remove parameters",
+  "version": "0.0.1",
+  "keywords": ["querystring"],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>",
+  "license": "MIT"
+}
