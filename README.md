@@ -1,5 +1,7 @@
 # qs-extra
 
+[![Build Status](https://travis-ci.org/tatsuyaoiw/qs-extra.svg?branch=master)](https://travis-ci.org/tatsuyaoiw/qs-extra)
+
 The extended node.js [querystring](http://nodejs.org/api/querystring.html) APIs supporting add/remove parameters.
 
 ## Installation
